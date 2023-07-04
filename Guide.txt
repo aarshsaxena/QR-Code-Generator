@@ -1,0 +1,39 @@
+Welcome to the documentation for the QR Generator Application! This Python application allows you to generate QR codes for various purposes. This document will guide you through the installation, usage, and customization of the QR Generator Application.
+
+Table of Contents
+Introduction
+Installation
+Usage
+Contributing
+License
+
+1. Introduction
+The QR Generator Application is a simple Python executable file build using Tkinter that utilizes the qrcode library to generate QR codes based on user input. It provides an easy way to create QR codes for URLs, text, contact information, and more. The generated QR codes can be saved as image files for further use.
+
+
+2. Installation
+To use the QR Generator Application, follow these steps:
+
+Download the application.zip file from the repository. 
+
+After Unzipping the, you will get application.exe file, this is a single executable file.
+
+Keep this .exe file in seperate folder because the generated QR Codes will be saved in the same folder only.
+
+Now, you are ready to use it.
+
+
+3. Usage
+After running the QR Code Generator application, enter the relevant information as per the prompt, and the application will generate the corresponding QR code.
+
+By default, the generated QR code will be displayed on the screen and save as an PNG image in the current working directory.
+
+
+4. Contributing
+Contributions to the QR Generator Application are welcome! If you have any bug fixes, improvements, or new features to add, please share it.
+
+
+5. License
+By using or contributing to the application, you agree to be acknowledge the developer.
+
+Thank you for using the QR Code Generator Application! If you have any questions or need further assistance, please feel free to open an issue on the GitHub repository. Happy QR code generating!
